@@ -71,3 +71,7 @@ Histopathology is the study of the signs of the disease using the microscopic ex
 - 32: inflammatory monoluclear inflitrate
 - 33: band-like infiltrate
 ```
+
+Credit - 
+https://machinelearningmastery.com/
+https://stackoverflow.com/
