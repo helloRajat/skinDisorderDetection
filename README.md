@@ -70,8 +70,9 @@ Histopathology is the study of the signs of the disease using the microscopic ex
 - 31: perifollicular parakeratosis
 - 32: inflammatory monoluclear inflitrate
 - 33: band-like infiltrate
-```
+
 
 Credit - 
 https://machinelearningmastery.com/
 https://stackoverflow.com/
+```
