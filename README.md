@@ -1,6 +1,6 @@
 # Skin Disorder Detection
 
-## Business Case for Skin Disease Detection
+## Use Case
 
 The six phenotypes of Erythmato-squamous Diseases (ESD) are the major challenge in dermatology. For instance, the psoriasis is the most common disease of ESD which approximately, 2 to 3% of population are affected. Due to overlapping between sign and symptom of ESD, differential diagnosis is very difficult. These diseases are frequently seen in the outpatient department of dermatology. All of ESD disease are same in terms of erythema and scaling, but when examine carefully some patient have the typical clinical feature of disease. Automatic detection of these group of disease could help physician for decision making.
 
